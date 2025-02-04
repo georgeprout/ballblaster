@@ -1,6 +1,6 @@
-# Fisher-Price Stand-Up Ball Blaster
+# Fisher-Price Stand-Up Ball Blaster Schematic Diagram
 
-Whilst repairing this toy I found that the wires frequently broke off. So I reverse engineered the PCB to indentify where each wire should go.
+Whilst repairing this toy I found that the wires frequently broke off. So I reverse engineered the PCB to indentify where each wire should go. Here is the schematic / wiring diagram that hopefuly will help you repair yours.
 
 Quality was pretty poor, it needed lots of reflowing of solder joints and replacing wires. But it worked.
 
